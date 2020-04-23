@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">food_delivery_app</string>
+
+    <string name="place_order">Place Order</string>
+    <string name="logout">Logout</string>
+    <string name="regular_1_week">Regular(1 Week)</string>
+    <string name="occasional">Occasional</string>
+    <string name="delivery_charges">10 Rs/km</string>
+
+
+    <string name="cart">Cart</string>
+    <string name="deliver">Deliver</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="cart_total">Cart Total</string>
+    <string name="remove">remove</string>
+    <string name="size">Size</string>
+    <string name="name">Name</string>
+
+    <string-array name="items1">
+        <item>Pasta</item>
+        <item>Maggi</item>
+        <item>Oats</item>
+        <item>Salad</item>
+    </string-array>
+
+    <string-array name="prices1">
+        <item>100.00</item>
+        <item>50.00</item>
+        <item>60.00</item>
+        <item>40.00</item>
+    </string-array>
+
+    <string-array name="sizes">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="items2">
+        <item>Veg Sandwich</item>
+        <item>Ramen</item>
+        <item>Spaghetti</item>
+        <item>Egg Fried Rice</item>
+    </string-array>
+
+    <string-array name="prices2">
+        <item>40.00</item>
+        <item>50.00</item>
+        <item>100.00</item>
+        <item>80.00</item>
+    </string-array>
+
+    <string-array name="items3">
+        <item>Waffle</item>
+        <item>Chicken Burger</item>
+        <item>Milkshake</item>
+        <item>Doughnut</item>
+    </string-array>
+
+    <string-array name="prices3">
+        <item>100.00</item>
+        <item>120.00</item>
+        <item>150.00</item>
+        <item>60.00</item>
+    </string-array>
+    <string name="title_activity_customer_maps">food_delivery_app</string>
+    <string name="title_activity_driver_maps">food</string>
+    <string name="order_confirm">Order is Confirmed</string>
+    <string name="price">Price</string>
+
+</resources>
